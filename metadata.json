@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Customer & Sales Analytics",
+  "description": "Executive SQL, Python & Power BI analytics suite featuring RFM customer segmentation, sales and profit KPIs, regional performance, and retention strategy modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
